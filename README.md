@@ -1,5 +1,6 @@
 # Strategic Agency landing page
-Implement landing page according to Figma design - Use BEM and SCSS
+
+Implement landing page according to Figma design - Use BEM and SCSS - https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35 
 
 Adapt the page to the following screens:
 
